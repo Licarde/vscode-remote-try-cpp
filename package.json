@@ -1,0 +1,11 @@
+{
+  "name": "vscode-remote-try-cpp",
+  "version": "1.0.0",
+  "description": "C++ environment for online judging",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

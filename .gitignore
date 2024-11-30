@@ -331,3 +331,7 @@ ASALocalRun/
 
 # Build output for this sample
 *.out
+
+# atcoder library
+atcoder/
+apg4b/
